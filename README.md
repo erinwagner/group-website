@@ -59,6 +59,7 @@ I would like to use [this site][carpentries-tag].
 
  Example links:
 1. [The Carpentries](https://carpentries.org/)
-2. [carpentries=tag]:https://carpentries.org/). 
+2. [ase-InSeNsiTiVE-reference-tag][carpentries-tag]. 
 
-[ase-InSeNsiTiVE-reference-tag][carpentries-tag]  
+[carpentries=tag]:https://carpentries.org/). 
+
