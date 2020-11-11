@@ -31,3 +31,22 @@ print('Hello World')
 ```python
 print("Hello World")
 ```
+
+Exercise. 
+
+```R
+printf(past("How","are","you?"), quote = FALSE)
+```
+```python
+s = "How are you?"
+print(s)
+```
+```html
+<!DOCTYPE html>
+<html>
+  <body>
+    <a href=https://carpentiries.org/>This is a link</a>
+  </body>
+  </html>
+```
+html will render without tag
