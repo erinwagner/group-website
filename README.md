@@ -49,4 +49,16 @@ print(s)
   </body>
   </html>
 ```
-html will render without tag
+note: html will render without tag
+
+[The Carpentries](https://carpentries.org)
+
+I would like to use [this site][carpentries-tag]. 
+
+[carpentries-tag]:https://carpentries.org. 
+
+ Example links:
+1. [The Carpentries](https://carpentries.org/)
+2. [carpentries=tag]:https://carpentries.org/). 
+
+[ase-InSeNsiTiVE-reference-tag][carpentries-tag]  
